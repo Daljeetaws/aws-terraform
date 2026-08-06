@@ -4,6 +4,7 @@ variable "tags" {
    
   }
 }
+
 locals {
   default = {
     Team = "security_team"
